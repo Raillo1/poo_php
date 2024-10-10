@@ -1,11 +1,13 @@
 <?php
 
-private $nombre;
+public class Cliente{
+    private $nombre;
 
-public function _construct($nombre){
+public function __construct($nombre){
     this->nombre = $nombre;
 }
 public function getNombre(){
     return $this-> $nombre;
 }
+
 ?>
