@@ -15,4 +15,4 @@ echo "Nombre: " .$productofisico->getNombre() . ",Precio: " . $productofisico->g
 <ol>
     <li><?=$c1->getNombre()?></li>
     <li><?=$c2->getNombre()?></li>
-</ol>
+</ol> 
